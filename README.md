@@ -147,6 +147,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 | Zenjob | Berlin 🇩🇪 | https://boards.greenhouse.io/zenjob |
 | Zenly | Paris 🇫🇷 | https://zen.ly/jobs |
 | Ziegert Group | Berlin 🇩🇪 | https://ziegert-group.com/en/careers |
+| Amazon | Worldwide | https://www.amazon.jobs/ |
 
 
 # 🗣️ Job interviews
@@ -156,6 +157,7 @@ A well-written and concise resume is an essential ingredient of a successful job
 * 🎥 [How to prepare for behavioral interviews](https://youtu.be/zIJ1qRCPHUw)
 * 🔨 [interviewing.io](https://interviewing.io/): Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies.
 * 🔨 [LeetCode](https://leetcode.com/): A great place to practice solving coding problems and prepare for technical interviews. 
+* 🔨 [AlgoExpert](hhttps://www.algoexpert.io/): A great place to practice solving coding problems and prepare for technical interviews for TOP companies 
 
 # 💰 Compensation negotiation
 * [Considerations to make when negotiating your salary abroad](https://relocate.me/blog/job-search/how-to-negotiate-a-developer-salary-while-searching-for-a-job-abroad/)
@@ -179,7 +181,8 @@ A well-written and concise resume is an essential ingredient of a successful job
 * [Moving to the Netherlands for a tech job](https://relocate.me/blog/job-relocation/moving-to-the-netherlands-for-a-tech-job/)
 * [Everything you need to know before moving to Berlin](https://www.deliveryhero.com/blog/moving-to-berlin/) 
 * [How to move to Berlin, step by step](https://allaboutberlin.com/guides/moving-to-berlin)
-* [Finding housing](https://relocate.me/learning-center/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places.
+* [Finding housing](https://relocate.me/learning-center/finding-housing): A collection of resources that will help you find housing in many countries, along with some basic info that you will need to know about the housing market in these places
+* [360 Relocation Support](https://www.jetztpat.com/)
 
 
 # 💬 Expat stories
